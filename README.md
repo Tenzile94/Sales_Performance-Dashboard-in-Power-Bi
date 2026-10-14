@@ -10,15 +10,16 @@ The **Sales Performance Dashboard** is an interactive Power BI project designed 
 
 ### 1. Overview
 Provides a high-level summary of sales performance through key performance indicators (KPIs) and visualizations. It helps users understand overall business performance and identify sales trends.
-screenshots/overview.png
+
+![Overview Dashboard](./screenshots/overview.png)
 
 ### 2. Products
 Focuses on product-level performance, helping users explore sales across different products and identify top-performing products.
-screenshots/product.png
+![Products Dashboard](./screenshots/products.png)
 
 ### 3. Customers
 Provides insights into customer-related sales data, supporting the analysis of customer contributions and purchasing patterns.
-screenshots/customer.png
+![Customers Dashboard](./screenshots/customers.png)
 
 ## Tools & Technologies
 
