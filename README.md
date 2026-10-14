@@ -15,11 +15,11 @@ Provides a high-level summary of sales performance through key performance indic
 
 ### 2. Products
 Focuses on product-level performance, helping users explore sales across different products and identify top-performing products.
-![Products Dashboard](./screenshots/products.png)
+![Products Dashboard](./screenshots/product.png)
 
 ### 3. Customers
 Provides insights into customer-related sales data, supporting the analysis of customer contributions and purchasing patterns.
-![Customers Dashboard](./screenshots/customers.png)
+![Customers Dashboard](./screenshots/customer.png)
 
 ## Tools & Technologies
 
